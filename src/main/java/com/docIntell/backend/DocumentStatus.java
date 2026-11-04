@@ -2,7 +2,7 @@ package com.docIntell.backend;
 
 
 public enum DocumentStatus {
-    UPLOADED,
+    UPLOADING,
     PROCESSING,
     Indexed,
     Failed
